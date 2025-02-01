@@ -18,8 +18,15 @@ A small repo that I search about fine-tuning
 
 ## RL
 
+- GRPO: Group Relative Policy Optimization [Paper](https://arxiv.org/pdf/2402.03300)
+
+## Other
+
+- CFT: Critique Fine-Tuning [Paper](https://arxiv.org/abs/2501.17703)
+
 ## Framework
 
 - veRF: Volcano Engine Reinforcement Learning for LLM [Paper](https://arxiv.org/pdf/2409.19256v2) [Notes Comming Soon] [Repo](https://github.com/volcengine/verl)
 - SFT Huggingface: Transformer Reinforcement Learning [Website](https://huggingface.co/docs/trl/index)
 - PEFT: Parameter-Efficient Fine-Tuning [Website](https://huggingface.co/docs/peft/index)
+- oumi: Open Universal Machine Intelligence [Repo](https://github.com/oumi-ai/oumi) [Documents](https://oumi.ai/docs/en/latest/index.html)
